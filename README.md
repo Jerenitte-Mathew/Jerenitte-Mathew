@@ -13,17 +13,6 @@
 
 💡 Motivated by continuous learning and contributing to meaningful projects.
 
-#### 🛠 *Skills*
-Languages: Python, R, SQL
-
-Tools & Libraries: Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
-
-Platforms: Jupyter Notebook, Power BI
-
-Technical Expertise: Statistical Analysis, Exploratory Data Analysis (EDA), Regression Models, Data Visualization
-
-Soft Skills: Analytical Thinking, Problem-Solving & Decision Making, Creativity & Adaptability, Leadership & Team Collaboration
-
 #### 📁 *Projects*
 ###### 🌍 World Happiness Analysis
 Objective: Analyze factors affecting global happiness using multiple regression models.
@@ -38,10 +27,6 @@ Objective: Build an interactive dashboard to track key performance indicators (K
 Tools Used: Power BI.
 
 Highlights: Visualized agent performance and call center metrics. Automated reports for real-time monitoring.
-
-#### 🧑‍💻 *Experience*
-Data Science Project Intern @ Edure Software Training Institute
-     - Analyzed world happiness data and built predictive models.
 
 #### 🌐 *Let's Connect*
 LinkedIn: https://www.linkedin.com/in/jerenitte-mathew/
