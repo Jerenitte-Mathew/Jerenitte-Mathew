@@ -7,7 +7,6 @@
 📊 Experienced in *data visualization, predictive modeling, and statistical analysis*
 
 #### 🔍 *About Me*
-🌟 Currently seeking data science/data analytics internships and roles.
 
 🌍 Interested in data-driven decision-making and solving real-world problems.
 
